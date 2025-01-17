@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Deryk Fong`
+- **CCID:** `dfong2`
 
 ## References and Resources
 
