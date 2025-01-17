@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
         add_city.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                dataList.add(input.getText().toString());
+                dataList.add(String.valueOf(input.getText()));
                 cityAdapter.notifyDataSetChanged();
             }
         });
